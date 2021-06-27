@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "718303985410",
+    "firebase_url": "https://plant-e7169-default-rtdb.firebaseio.com",
+    "project_id": "plant-e7169",
+    "storage_bucket": "plant-e7169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718303985410:android:5bd3455437a9c483908c1b",
+        "android_client_info": {
+          "package_name": "com.bao_ve_cay_trong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718303985410-qro6sla6dh6q5qnp1dknkl292g3407r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bao_ve_cay_trong",
+            "certificate_hash": "5d4d1081cdf817453f0bc07e426e9ed3d128783b"
+          }
+        },
+        {
+          "client_id": "718303985410-mpiatv17m27o02laj309j0sb8qm81fv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWWlAnFEKtcOP3eFqNLZAPbfI1BUhp4Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718303985410-mpiatv17m27o02laj309j0sb8qm81fv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

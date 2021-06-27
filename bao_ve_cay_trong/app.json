@@ -1,0 +1,9 @@
+{
+	"name": "bao_ve_cay_trong",
+	"displayName": "bao_ve_cay_trong",
+	"description": "",
+	"packagerOpts": {
+		"config": "metro.config.js",
+		"sourceExts": ["js", "jsx", "svg", "ts", "tsx"]
+	}
+}
